@@ -1,0 +1,40 @@
+body{
+    font-family: Helvetica, serif;
+    width: 500px;
+    margin: 10px auto;
+    background-color: ;
+
+}
+#main{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid lightgray;
+    box-shadow:px;
+
+
+}
+input{
+    flex: 1;
+    margin: 0 10px;
+    font-size: 18px;
+    background-color: silver;
+    
+    
+}
+#button{
+    background-color: rgb(218, 214, 226);
+    border-radius: 6px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+}
+#list{
+    padding: 25px;
+    font-size: 18px;
+    background-color: lightyellow;
+}
